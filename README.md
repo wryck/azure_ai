@@ -15,6 +15,9 @@ Os laboratórios de treinamento AI-900 são um subconjunto dos laboratórios AI-
 Trilha completa
 https://docs.microsoft.com/pt-br/certifications/azure-ai-fundamentals/
 
+Serviços Cognitivos - 
+https://azure.microsoft.com/pt-br/services/cognitive-services/#api
+
 ## Mapa do módulo AI-900 para laboratórios
 
 O subconjunto de laboratórios AI-900 usado neste curso é mapeado por módulo conforme exibido abaixo: 
