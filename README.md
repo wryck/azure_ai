@@ -12,6 +12,9 @@ Os laboratórios de treinamento AI-900 são um subconjunto dos laboratórios AI-
 
 > Observação: Os instrutores podem optar por adicionar outros laboratórios do conjunto completo de laboratórios AI-900 (01-11) aos módulos do curso.
 
+Trilha completa
+https://docs.microsoft.com/pt-br/certifications/azure-ai-fundamentals/
+
 ## Mapa do módulo AI-900 para laboratórios
 
 O subconjunto de laboratórios AI-900 usado neste curso é mapeado por módulo conforme exibido abaixo: 
