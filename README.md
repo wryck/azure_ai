@@ -29,3 +29,6 @@ O subconjunto de laboratórios AI-900 usado neste curso é mapeado por módulo c
 | 03: AI-900 Módulo 03 | Classificação de imagem  | [02-lab-Instructions.md](https://docs.microsoft.com/pt-br/learn/modules/classify-images-custom-vision/) |
 | 04: AI-900 Módulo 04 | Reconhecimento vocal | [10-lab-Instructions.md](https://docs.microsoft.com/pt-br/learn/modules/recognize-synthesize-speech/) |
 | 05: AI-900 Módulo 05 | Bot de QnA | [11-lab-Instructions.md](https://docs.microsoft.com/pt-br/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/) |
+
+Simulado
+01- https://docs.google.com/forms/d/e/1FAIpQLSfn9d0vE75IcyZVN-x4OEzM27MG9GbvNev5irr0p4_SSadrjQ/viewform
