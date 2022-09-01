@@ -31,4 +31,16 @@ O subconjunto de laboratórios AI-900 usado neste curso é mapeado por módulo c
 | 05: AI-900 Módulo 05 | Bot de QnA | [11-lab-Instructions.md](https://docs.microsoft.com/pt-br/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/) |
 
 Simulado
+
 01- https://docs.google.com/forms/d/e/1FAIpQLSfn9d0vE75IcyZVN-x4OEzM27MG9GbvNev5irr0p4_SSadrjQ/viewform
+
+
+
+Link Oportunidade SENAI
+
+https://oportunidades.sp.senai.br/Acompanhamento/Home.aspx
+
+
+Link Pesquisa Satisfação 
+
+https://bit.ly/3Qsenaiosasco
