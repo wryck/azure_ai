@@ -53,3 +53,8 @@ https://www.youtube.com/watch?v=46SLsu4ihqA
 Cobrinha Comilona
 
 https://www.youtube.com/watch?v=awz1ghokP3k
+
+
+Training Day para voucher 100% Free
+
+https://info.microsoft.com/AP-AzureApp-CATALOG-FY21-02Feb-18-MicrosoftAzureVirtualTrainingDayAiFundamentals-SRDEM59235_CatalogDisplayPage.html
