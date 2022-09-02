@@ -8,7 +8,8 @@ URL portal do Azure: https://azure.microsoft.com/pt-br/
 
 Este curso, AI-900: Princípios básicos da IA, tem um subconjunto de laboratórios designados para treinamento com instrutor e adaptados para serem realizados em um curso de um dia.
 
-Os laboratórios de treinamento AI-900 são um subconjunto dos laboratórios AI-900 (01-11) e foram extraídos do [repositório de laboratórios AI-900](https://github.com/MicrosoftLearning/AI-900BR-Microsoft-Azure-AI-Fundamentals).
+Os laboratórios de treinamento AI-900 são um subconjunto dos laboratórios AI-900 (01-11) e foram extraídos do [repositório de laboratórios AI-900]
+(https://github.com/MicrosoftLearning/AI-900BR-Microsoft-Azure-AI-Fundamentals).
 
 > Observação: Os instrutores podem optar por adicionar outros laboratórios do conjunto completo de laboratórios AI-900 (01-11) aos módulos do curso.
 
@@ -34,7 +35,7 @@ Simulado
 
 01- https://docs.google.com/forms/d/e/1FAIpQLSfn9d0vE75IcyZVN-x4OEzM27MG9GbvNev5irr0p4_SSadrjQ/viewform
 
-
+02. https://docs.google.com/forms/d/e/1FAIpQLSePaPHHOmK5wPZAee80Tda0vJiA51x5Z_vUiMXUIsagP2zdfg/viewform
 
 Link Oportunidade SENAI
 
