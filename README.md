@@ -44,3 +44,8 @@ https://oportunidades.sp.senai.br/Acompanhamento/Home.aspx
 Link Pesquisa Satisfação 
 
 https://bit.ly/3Qsenaiosasco
+
+
+Vídeo AI Esconde-Esconde
+
+https://www.youtube.com/watch?v=46SLsu4ihqA
