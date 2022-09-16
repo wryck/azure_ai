@@ -70,17 +70,6 @@ Training Day para voucher 100% Free
 https://events.microsoft.com/pt-br/Azure
 
 
-Criar um modelo de regressão com o designer do Azure Machine Learning
-https://docs.microsoft.com/pt-br/training/modules/create-regression-model-azure-machine-learning-designer/
-
-
-
-Analisar imagens com o serviço de Pesquisa Visual Computacional
-https://docs.microsoft.com/pt-br/training/modules/analyze-images-computer-vision/
-
-
-
-
 MAIS CURSOS
 
 
