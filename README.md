@@ -76,3 +76,11 @@ https://docs.microsoft.com/pt-br/training/modules/create-regression-model-azure-
 
 Analisar imagens com o serviço de Pesquisa Visual Computacional
 https://docs.microsoft.com/pt-br/training/modules/analyze-images-computer-vision/
+
+
+
+
+MAIS CURSOS
+
+
+https://docs.microsoft.com/pt-br/training/student-hub/?WT.mc_id=Build2020_student_charlotteOMB_-blog-cxa%3FWT.mc_id%3DBuild2020_student_charlotteOMB_-blog-cxa
