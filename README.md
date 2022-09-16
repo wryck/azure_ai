@@ -4,9 +4,6 @@ E-mail sesi
 
 https://bit.ly/3QPzM0o
 
-https://login.sesisenaispedu.org.br/adfs/ls/?client-request-id=7c834d1d-159f-a3ee-4d9d-5b5899df5d89&username=&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=estsredirect%3d2%26estsrequest%3drQQIARAAjZE_iNNgAMXzNb3Ynv-KcOAiijh5Jk3SNEkLgkl7bU-bXmsu7bUiJUm_tKlNv5ik9q446aJbVw9FOXHp6CR1EXQ6EG5RUAR1OwRFnG60xcVNf8PjvfX3zuMMxaTP0X9gyXmStGUxpAnn7S-8E4uxU8rd24-XfjxVHl3bePD5-v1tsORD3_ZhX7d9F7YGFPLalOFNwOlOELh-Oh5Hg6CH0A0KWZZtQspEThwN9fgLAPYA2AdgEhL4hJASBV7kEymBTgkMJ1KGBXnWMlOkSAstkmMsltQNOJtG0qSTHKR1gf8YOr4mDYIOOw_k2SP4KxS1kOc0XeQH2_gYZOuBnPVX2yuSLDfZoi0ZbsCrnJkPyK2eUqsEpYbErDWLdVVvDFm7xxSrI77WRRqqjGSticwKt9LWjL5hbmW0FJ8RtezlQTZX7tws013Fz9ubpXYlSFhkIkvCQkfjLKbuCOtqUqn1bqnVlJBzrFJgGCWeLvSadHmC_5fp5zgx0-Sg_i5OIBf27dZeGHwJg2_hIzSejkQWY9hJ7Ax2EAY7C7NTXuuXHjpv7kgv33298GFHwHYX4qjldFdV98pV0St3pGUlYRpyTlI2qvmhXEmqy4696UOjNXIa5kUuzYwJMCaIKRGN4DHsLJ4pM_sE-EmAe4ewafRfT-4dBq-OYgfHnkw_vZ--ffa98Bs1#
-
-
 
 URL portal do Azure: https://azure.microsoft.com/pt-br/
 
@@ -70,7 +67,7 @@ https://www.youtube.com/watch?v=awz1ghokP3k
 
 Training Day para voucher 100% Free
 
-https://info.microsoft.com/AP-AzureApp-CATALOG-FY21-02Feb-18-MicrosoftAzureVirtualTrainingDayAiFundamentals-SRDEM59235_CatalogDisplayPage.html
+https://events.microsoft.com/pt-br/Azure
 
 
 Criar um modelo de regressão com o designer do Azure Machine Learning
