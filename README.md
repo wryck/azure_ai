@@ -78,3 +78,9 @@ MAIS CURSOS
 https://docs.microsoft.com/pt-br/training/student-hub/?WT.mc_id=Build2020_student_charlotteOMB_-blog-cxa%3FWT.mc_id%3DBuild2020_student_charlotteOMB_-blog-cxa
 
 
+
+SIMULADO 001
+
+https://docs.google.com/forms/d/e/1FAIpQLSdzWu3-RXJSmCY42UycdTU2_qtGNK-TyfmCZoGrfrGeYYvtmQ/viewform
+
+
