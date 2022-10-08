@@ -106,4 +106,9 @@ Trabalhe no SENAI
 
 Acesse o link https://sesisenaisp.jobs.recrut.ai/job/6YEAMD para mais informações e para realizar sua inscrição
 
+04 - Processamento de Linguagem Natural - NLP
+
+
+https://docs.google.com/forms/d/e/1FAIpQLScHZNxxFWHvt09PsaCplZjIhAkcFhRdCRGXqKvv4x_lFMG9lg/viewform
+
 
