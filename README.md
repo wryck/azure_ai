@@ -102,3 +102,8 @@ Simulado Final
 https://docs.google.com/forms/d/e/1FAIpQLSclIGS8np8qCnkMuJSJiDrAVWDJDz7XtEKSOt4uKgKr3oidmA/viewform
 
 
+Trabalhe no SENAI
+
+Acesse o link https://sesisenaisp.jobs.recrut.ai/job/6YEAMD para mais informações e para realizar sua inscrição
+
+
