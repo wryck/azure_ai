@@ -111,4 +111,8 @@ Acesse o link https://sesisenaisp.jobs.recrut.ai/job/6YEAMD para mais informaç�
 
 https://docs.google.com/forms/d/e/1FAIpQLScHZNxxFWHvt09PsaCplZjIhAkcFhRdCRGXqKvv4x_lFMG9lg/viewform
 
+Laboratório de OCR
+
+https://learn.microsoft.com/pt-br/training/modules/read-text-computer-vision/
+
 
