@@ -50,7 +50,7 @@ Simulado
 
 Link Oportunidade SENAI
 
-https://oportunidades.sp.senai.br/Acompanhamento/Home.aspx
+https://oportunidades.sp.senai.br
 
 
 Link Pesquisa Satisfação 
