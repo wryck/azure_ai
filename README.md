@@ -116,3 +116,8 @@ Laboratório de OCR
 https://learn.microsoft.com/pt-br/training/modules/read-text-computer-vision/
 
 
+Minereção de conhecimento
+
+https://learn.microsoft.com/pt-br/training/modules/intro-to-azure-search/
+
+
