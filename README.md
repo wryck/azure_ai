@@ -121,3 +121,8 @@ Minereção de conhecimento
 https://learn.microsoft.com/pt-br/training/modules/intro-to-azure-search/
 
 
+Prova final 02
+
+https://docs.google.com/forms/d/e/1FAIpQLSfWQHXvknwz4pCz66TpYKRxUEJ0G3ToJ6tWgzYb_m1gEKju5w/viewform
+
+
