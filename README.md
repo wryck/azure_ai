@@ -8,6 +8,11 @@ https://bit.ly/3QPzM0o
 URL portal do Azure: https://azure.microsoft.com/pt-br/
 
 
+
+Pess Portal
+https://pess.sesisenaispedu.org.br/
+
+
 # Mapas de laboratórios de treinamento AI-900
 
 Este curso, AI-900: Princípios básicos da IA, tem um subconjunto de laboratórios designados para treinamento com instrutor e adaptados para serem realizados em um curso de um dia.
