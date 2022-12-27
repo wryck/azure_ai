@@ -131,3 +131,8 @@ Prova final 02
 https://docs.google.com/forms/d/e/1FAIpQLSfWQHXvknwz4pCz66TpYKRxUEJ0G3ToJ6tWgzYb_m1gEKju5w/viewform
 
 
+Disigner Azure
+
+https://learn.microsoft.com/pt-br/training/modules/create-regression-model-azure-machine-learning-designer/
+
+
